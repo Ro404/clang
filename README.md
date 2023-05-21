@@ -4,21 +4,19 @@ This repo is made to store the c file
 ``` shell
 #include<stdio.h>
 ```
-this a header part of c programming language this is used for printing the data `print statement` and taking input form user `scanf statement` 
+This a header part of c programming language this is used for printing the data `print statement` and taking input form user `scanf statement` 
 ``` shell
 int main(){
 
 }
 ```
-this is a main function of c programming whatever ever write inside main() will execute.
+This is a main function of c programming whatever written inside `main()` function it will execute that.
 
-
-
-#short c program for printing hello world
+# short c program for printing hello world
 ```shell
 #include<stdio.h>
-int main(){
+void main(){
   printf("hello world");
-  return 0;
   }
 ```
+As this `main()` function is of void type it can not return any value.
