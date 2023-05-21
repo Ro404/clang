@@ -4,7 +4,7 @@ This repo is made to store the c file
 ``` shell
 #include<stdio.h>
 ```
-this a header part of c programming language this is used for print statements and scanf statement 
+this a header part of c programming language this is used for printing the data `print statement` and taking input form user `scanf statement` 
 ``` shell
 int main(){
 
