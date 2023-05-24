@@ -33,5 +33,4 @@ int main()
   return 0;
 }
 ```
-This program will going to take value form user and print it .
-This all is possible due to `scanf()` which allow user to take input form user and by help of `printf()` we print that value.
+This program takes a value from the user and prints it. This is possible due to the `scanf()` function, which allows the user to input a value, and the `printf()` function, which prints that value
